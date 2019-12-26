@@ -5,12 +5,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Jansen Felipe",
-            "email": "jansen.felipe@gmail.com"
+            "name": "Gleison de souza luiz",
+            "email": "gleisonnanet@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0" 
     },
    
     "autoload": {
@@ -23,5 +23,5 @@
             "dev-master": "2.0-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
